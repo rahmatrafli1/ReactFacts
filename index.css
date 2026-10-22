@@ -33,9 +33,8 @@ body {
 
 main {
   min-height: calc(100vh - 105px);
-  padding: 60px 30px;
-  background: #282d35 url("./images/react-logo-half.png") no-repeat right 0
-    bottom 50px;
+  padding: 30px 30px 60px;
+  background: #282d35 url("./images/react-logo-half.png") no-repeat right 43%;
   color: #fff;
 }
 
